@@ -16,5 +16,5 @@ ShowPostNavLinks = true
 
 [[menu.main]]
     name = "Community"
-    url = "https://github.com/its-ernest"
+    url = "https://github.com/sweet-juice/sweetjuice"
     weight = 20
